@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/learnspringbootonline"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "responses/example_response.json"
+  }
+}
