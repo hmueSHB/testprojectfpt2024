@@ -10,6 +10,7 @@
     <groupId>com.sawhtoo</groupId>
     <artifactId>testprojectfpt2024</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>war</packaging>
     <name>testprojectfpt2024</name>
     <description>Test Project</description>
     <url/>
